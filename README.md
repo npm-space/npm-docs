@@ -1,2 +1,2 @@
 # npm-docs
-npm syudy
+npm study
